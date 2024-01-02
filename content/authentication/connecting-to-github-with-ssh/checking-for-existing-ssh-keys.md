@@ -51,3 +51,5 @@ Before you generate a new SSH key, you should check your local machine for exist
    - If you see an existing public and private key pair listed (for example, _id_rsa.pub_ and _id_rsa_) that you would like to use to connect to {% data variables.product.product_name %}, you can add the key to the ssh-agent.
 
      For more information about generation of a new SSH key or addition of an existing key to the ssh-agent, see "[AUTOTITLE](/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)."
+ls -al ~/.ssh
+
